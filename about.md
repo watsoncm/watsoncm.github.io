@@ -14,4 +14,4 @@ Current interests include algebraic geometry and number theory. In my off time I
 
 ### Contact me
 
-[watsonc@stanford.edu](mailto:watsonc@stanford.edu)
+Emails are welcome at watsonc at stanford dot edu.
