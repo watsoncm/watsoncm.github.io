@@ -13,8 +13,11 @@ One professor I've had for several classes loves the idea of "catchphrases" in m
 
 > The Fourier transform: converts differentiation with respect to \\(x\\) into multiplication by \\(\xi\\)
 
-to remind us of how the Fourier transform was immediately useful in the context we were using it in (PDEs). Another example might be "Dirichlet characters: let us define useful analogs of the zeta function" or even "homology: lets us count n-dimensional holes in spaces." I found such up-front "big picture" statements incredibly useful in organizing math topics in my head, and honestly wish it were more common.
+to remind us of how the Fourier transform was immediately useful in the context we were using it in (PDEs). Another example might be "Dirichlet characters: let us define useful analogs of the zeta function" or even "homology: lets us count n-dimensional holes in topological spaces." I found such up-front "big picture" statements incredibly useful in organizing math topics in my head, and honestly wish it were more common.
 
-In the hope of being able to give other prospective undergraduate math students a top-down view of math, here are my tentative "catchphrase" approaches to different topics early undergraduates might face.
+The closest I've found so far is Domain of Science's video [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y) and Quanta's identically named [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/), but the former confines all of algebra to a single point and the latter addresses an unusual scattering of topics. 
 
-...
+While I know anything I create will be just as irredemably skewed toward the topics I like, I can still hope unsuspecting freshmen happen upon it and become biased the same way I am. Hopefully more to come.
+
+
+
