@@ -3,9 +3,7 @@ layout: post
 title: Catchphrases in math
 ---
 
-One thing that I think is unique (or near-unique) to mathematics as a field is how difficult it is to roadmap.
-
-For instance, in computer science, most undergraduates can quickly get a rough idea of what deep learning, computer graphics, and programming language theory are by talking with someone about them. An expert in those fields can fairly readily convey the basic idea of, say, a neural network, or a raytracer, without too much strain. The details may be fairly complex, but the gist is readily accessible.
+One thing that I think is unique (or near-unique) to mathematics as a field is how difficult it is to roadmap. For instance, in computer science, most undergraduates can quickly get a rough idea of what deep learning, computer graphics, and programming language theory are by talking with someone about them. An expert in those fields can fairly readily convey the basic idea of, say, a neural network, or a raytracer, without too much strain. The details may be fairly complex, but the gist is readily accessible.
 
 In mathematics, however, it can be a struggle to explain the rough idea behind a field. Concepts in mathematics tend to be stacked fairly vertically, making it sometimes hard to give simple, accessible descriptions. I've often had professors give me such explanations, only for them to make sense many months down the road. Giving students a taste of possible fields of study is important, but in general a hard pedagogical problem.
 
