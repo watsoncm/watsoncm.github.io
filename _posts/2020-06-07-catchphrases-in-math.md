@@ -11,12 +11,10 @@ In mathematics, however, it can be a struggle to explain the rough idea behind a
 
 One professor I've had for several classes loves the idea of "catchphrases" in mathematics. Before delving into a new piece of machinery, she would often give a one-sentence description of what it did, i.e.
 
-> The Fourier transform: converts differentiation with respect to $x$ into multiplication by $\xi$
+> The Fourier transform: converts differentiation with respect to \\(x\\) into multiplication by \\(\xi\\)
 
 to remind us of how the Fourier transform was immediately useful in the context we were using it in (PDEs). Another example might be "Dirichlet characters: let us define useful analogs of the zeta function" or even "homology: lets us count n-dimensional holes in spaces." I found such up-front "big picture" statements incredibly useful in organizing math topics in my head, and honestly wish it were more common.
 
 In the hope of being able to give other prospective undergraduate math students a top-down view of math, here are my tentative "catchphrase" approaches to different topics early undergraduates might face.
 
 ...
-
-test: $x$
